@@ -23,5 +23,8 @@
     "packages": [
       "packages/*"
     ]
+  },
+  "dependencies": {
+    "evmosjs": "^0.2.16"
   }
 }
